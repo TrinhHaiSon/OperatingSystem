@@ -20,3 +20,4 @@ A process is represented in operating sytem as a **Process Control Block** (PCB)
 * Process state: The state may be new, running, waiting, halted,...
 * Program counter: The couter indicates the address of the next instruction to be executed
 * CPU registers: The registers vary in number and type, depending on computer architecture. They include accumulators, index registers, stack pointers and general purpose registers. Along with Program Pointer, the registers' states will be saved somewhere when the process is interrupted, in order to be reloaded again when the process continues running.
+* CPU scheduling information: 
